@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.page-header {
+    height: 90px;
+    background: #191c20;
+}
 
 .navbar {
   overflow: hidden;
