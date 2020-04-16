@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 
-title: "WiTrace"
+title: "WiFiTrace"
 #email: "{firstname}trivedi@umass.edu"
 description: WiFi based Contact Tracing
 baseurl: "" #"/blog" # the subpath of your site, e.g. /blog
