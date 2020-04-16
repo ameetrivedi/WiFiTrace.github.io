@@ -1,4 +1,5 @@
 
+## WiFiTrace : WiFi based Contact Tracing
 #### Exploiting WiFi Networks for Contact Tracing by Sensing Mobility Patterns 
 
 **WiFiTrace** is a **server side ready to deploy tool** that uses Enterprise WiFi logs for contact tracing. A Server side tool means there is no need to install any battery draining apps on the mobile phones of users or periodically gather location data. 
